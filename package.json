@@ -1,0 +1,20 @@
+{
+  "name": "7.3-learning-git-2",
+  "version": "1.0.0",
+  "description": "https://zukani44.github.io/7.3-learning-git-2/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zukani44/7.3-learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zukani44/7.3-learning-git-2/issues"
+  },
+  "homepage": "https://github.com/Zukani44/7.3-learning-git-2#readme"
+}
