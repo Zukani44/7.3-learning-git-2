@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Zukani44/7.3-learning-git-2/issues"
   },
-  "homepage": "https://github.com/Zukani44/7.3-learning-git-2#readme"
+  "homepage": "https://github.com/Zukani44/7.3-learning-git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4"
+  }
 }
