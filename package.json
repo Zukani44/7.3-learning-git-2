@@ -4,7 +4,7 @@
   "description": "https://zukani44.github.io/7.3-learning-git-2/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:html"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.24.4",
+    "globstar": "^1.0.0",
     "nu-html-checker": "^0.1.0"
   }
 }
