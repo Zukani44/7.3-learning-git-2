@@ -1,0 +1,7 @@
+body { margin: 0; background-color: #5758BB; color: #fff; font-size: 21px; }
+
+.container { width: 100vh; margin: 0 auto; padding: 10px; }
+
+h1 { padding-bottom: 5px; }
+
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
